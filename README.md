@@ -19,7 +19,7 @@
   <h1>Skills</h1>
   <div align="center">
     <div>
-    <h3>Front</h3>
+    <h3>Frontend</h3>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -27,18 +27,22 @@
       <img src="https://img.shields.io/badge/Ajax-007396?style=for-the-badge&logo=Java&logoColor=white">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     </div>
-    <div align="center">
-      <h3>Language</h3>
+    <div>
+      <h3>Backend</h3>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
     </div>
-    <div align="center">
+    <div>
       <h3>FrameWork</h3>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     </div>
     <div>
-      <h3>DB</h3>
+      <h3>Database</h3>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=ORACLE&logoColor=white">
+    </div>
+   <div>
+      <h3>Server</h3>
+        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
     </div>
     <div>
       <h3>IDE</h3>
