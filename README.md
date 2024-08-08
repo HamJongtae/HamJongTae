@@ -18,9 +18,9 @@
 <div>
    <h1>GitHub</h1> 
    <div align="center">
-       <a href="https://github.com/HamJongtae/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HamJongtae&show_icons=true&include_all_commits=true&text_color=00CC00&hide_border=true"  
+       <a href="https://github.com/HamJongtae/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HamJongtae&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"  
                                                                       alt="HamJongtae's github stats" /></a>  
-       <a href="https://github.com/HamJongtae/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamJongtae&layout=compact&text_color=00CC00&hide_border=true" /></a> 
+       <a href="https://github.com/HamJongtae/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamJongtae&layout=compact&theme=transparent&hide_border=true" /></a> 
    </div>
 </div>
 <div>
