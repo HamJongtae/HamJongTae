@@ -65,7 +65,7 @@
    <h1>Team Project</h1> 
    <div align="center">
       <a href="https://github.com/HamJongtae/CineVerse">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HamJongtae&repo=CineVerse&theme=buefy" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HamJongtae&theme=buefy" />
       </a>
       <a href="https://github.com/HamJongtae/carcarocean">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HamJongtae&repo=carcarocean&theme=buefy" />
