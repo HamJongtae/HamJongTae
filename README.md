@@ -18,7 +18,7 @@
 <div>
    <h1>GitHub</h1> 
    <div align="center">
-       ![HamJongtae's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamJongtae&hide=contribs,prs&show_icons=true&theme=radical)(https://github.com/HamJongtae/github-readme-stats)
+       [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
    </div>
 </div>
 <div>
