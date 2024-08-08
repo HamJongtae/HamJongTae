@@ -16,6 +16,12 @@
    </div>
 </div>
 <div>
+   <h1>GitHub</h1> 
+   <div align="center">
+       [![HamJongtae's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamJongtae&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/HamJongtae/github-readme-stats)
+   </div>
+</div>
+<div>
   <h1>Skills</h1>
   <div align="center">
     <div>
