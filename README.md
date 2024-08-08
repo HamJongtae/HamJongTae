@@ -51,5 +51,6 @@
   </div>
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00CC00&height=150&section=footer" />
+</div>
