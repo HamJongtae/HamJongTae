@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F899C,100:AFB5C1&height=150&section=header&text=SeungYeon%20Kim&fontSize=70&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F899C,100:AFB5C1&height=150&section=header&text=HamJongTae&fontSize=70&fontColor=FFFFFF" />
 </div>
 <div>
   <h1>Skills</h1>
