@@ -1,18 +1,18 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F899C,100:AFB5C1&height=150&section=header&text=HamJongTae&fontSize=70&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00CC00&height=150&section=header&text=HamJongTae&fontSize=70&fontColor=FFFFFF" />
 </div>
 <div>
    <h1>Contact</h1> 
    <div align="center">
-      <a href="mailto:hjt0530@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://open.kakao.com/o/sX9ViNHg">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="https://www.instagram.com/h_whdxx">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
+       <a href="mailto:hjt0530@gmail.com">
+           <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+       </a>
+       <a href="https://open.kakao.com/o/sX9ViNHg">
+           <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+       </a>
+       <a href="https://www.instagram.com/h_whdxx">
+           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+       </a>
    </div>
 </div>
 <div>
@@ -50,12 +50,6 @@
     </div>
   </div>
 </div>
-<div>
-  <h1>Backjoon</h1>
-  <div align="center">
-    <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddus3037)](https://solved.ac/tmddus3037)-->
-    <a href="https://solved.ac/tmddus3037"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddus3037"></a>
-  </div>
-</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
